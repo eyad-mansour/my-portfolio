@@ -44,7 +44,7 @@ class Header extends Component {
         style={{ height: window.innerHeight - 100, display: "block" }}
       >
         <a
-          href="https://github.com/codefellows/cra-template-react-portfolio"
+          href="https://github.com/eyad-mansour"
           target="_blank"
           rel="noreferrer"
           className="github-corner"
