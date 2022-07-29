@@ -150,6 +150,12 @@ class Header extends Component {
               <h1 className="mb-0">{name}</h1>
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
+                <h5>
+                  JavaScript Developer using various Content Management Systems,
+                  and theming <br />
+                  semantically with HTML, CSS and adding interactivity with
+                  JavaScript
+                </h5>
               </div>
             </div>
           </div>
