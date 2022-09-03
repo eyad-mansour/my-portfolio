@@ -35,11 +35,14 @@
       ]
     },
     {
-      "title": "Photography Maybe 😉 ",
+      "title": "Yalla Jo  ",
       "startDate": "2022",
-      "description": "Comming soon",
-      "images": ["images/portfolio/photography/commingSoon.jpg"],
-      "url": "https://github.com/eyad-mansour",
+      "description": "Tourism website for anyone want to come to jordan and maybe want to rent a car or hire tour guide and to let people know more about the weather and nice places to visit.",
+      "images": [
+        "images/portfolio/photography/yallaJo1.png",
+        "images/portfolio/photography/yallaJo2.png"
+      ],
+      "url": "https://yallajo.netlify.app/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -48,6 +51,10 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "nodeJs"
         }
       ]
     }

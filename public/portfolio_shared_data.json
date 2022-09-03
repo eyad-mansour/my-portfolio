@@ -28,12 +28,6 @@
         "class": "devicon-css3-plain",
         "level": "95"
       },
-
-      {
-        "name": "TypeScript",
-        "class": "devicon-typescript-plain",
-        "level": "90"
-      },
       {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
@@ -43,6 +37,21 @@
       {
         "name": "Bootstrap",
         "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "85"
+      },
+      {
+        "name": "NodeJs",
+        "class": "devicon-nodejs-plain",
+        "level": "85"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
         "level": "85"
       }
     ]
